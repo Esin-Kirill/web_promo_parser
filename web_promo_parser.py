@@ -231,7 +231,7 @@ def main(driver, file):
     print(f'Парсинг {shop.title()} закончен.')
         
     shop = 'Пятёрочка'
-    content += collect_data_magnit(driver, shop, URL4)
+    content += collect_data_pyatorochka(driver, shop, URL4)
     print(f'Парсинг {shop.title()} закончен.')
     
     #Сохраняем и закрываем Excel файл
