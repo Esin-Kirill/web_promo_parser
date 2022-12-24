@@ -241,4 +241,3 @@ def main(driver, file):
 
 if __name__ == '__main__':
     main(DRIVER, FILE)
-
