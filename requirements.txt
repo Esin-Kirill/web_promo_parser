@@ -1,4 +1,0 @@
-requests
-xlsxwriter
-beautifulsoup4
-selenium==4.1.3
